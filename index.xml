@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ЖК Нарочанский</title>
+    <link>https://nrch.by/</link>
+    <description>Recent content on ЖК Нарочанский</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-BY</language>
+    <lastBuildDate>Fri, 07 Feb 2020 15:51:19 +0300</lastBuildDate>
+    
+	<atom:link href="https://nrch.by/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Main page</title>
+      <link>https://nrch.by/</link>
+      <pubDate>Fri, 07 Feb 2020 15:51:19 +0300</pubDate>
+      
+      <guid>https://nrch.by/</guid>
+      <description>dsafsdf</description>
+    </item>
+    
+  </channel>
+</rss>
