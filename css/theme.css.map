@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "theme.css",
-	"sourceRoot": "/home/circleci/hugo",
+	"sourceRoot": "/home/runner/work/nrchby/nrchby",
 	"sources": [
 		"themes/residency/assets/css/theme.scss",
 		"themes/residency/assets/bulma/bulma.sass",
